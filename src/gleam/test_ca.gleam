@@ -17,5 +17,5 @@
 fn get_url() -> String
 
 pub fn hello_from_gleam() -> String {
-  "Hello from GLEAM bitches at " <> get_url()
+  "Hello from GLEAM at " <> get_url()
 }
