@@ -1,0 +1,8 @@
+name = "gleam_ca"
+target = "javascript"
+
+[javascript]
+typescript_delcarations = true
+
+[dependencies]
+gleam_stdlib = ">= 0.34.0 and < 2.0.0"
